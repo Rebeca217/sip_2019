@@ -1,0 +1,51 @@
+.Intro{
+    background-color:antiquewhite
+    
+}
+h1{
+  color: #3c3c3c;
+  padding: 25px 50px 75px 100px;
+}
+.IntroP{
+  padding: 50px 50px;
+}
+h2{
+    color: #787878
+}
+h3{
+    color: gray
+}
+div {
+    padding: 20px 40px 60px 90px;
+    color: gray;
+  }
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #3c3c3c;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: antiquewhite;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: antiquewhite;
+    color:gray;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: white;
+    color: gray;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
